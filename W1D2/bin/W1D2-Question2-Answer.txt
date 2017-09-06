@@ -1,0 +1,18 @@
+Part 1: pseudo code for f.
+	int f(x) {
+		if (x == 3 || x == 4)
+			return x;
+		else 
+			return 0;
+	}
+Part 2: pseudo code for g.
+	int g(x, y) {
+		if (x == 7)
+			return x;
+		else
+			return x + y;
+	}
+Part 3: Specification of initial value.
+	Initial value = 0
+Part 4: Interpretation of final value.
+ 	+ integer: 0, 7, 3 => array is nice, 4 not nice
