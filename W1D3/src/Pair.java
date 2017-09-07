@@ -37,5 +37,9 @@ public class Pair<T extends Comparable<T>, S> implements Comparator<Pair<T,S>> {
        
     };
 
+    @Override
+    public String toString(){
+    	return "< "+ this.getKey() + ", "+ this.getValue() +" >";
+    }
 
 }
