@@ -1,0 +1,7 @@
+avegage A10	1.0
+avegage A12	2.5
+avegage B12	3.0
+avegage B12 	2.5
+avegage B76	2.2
+avegage C31	2.5
+avegage D76	3.142857
